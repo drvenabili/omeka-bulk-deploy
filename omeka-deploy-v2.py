@@ -1,6 +1,8 @@
 # this programme installs one to several Omeka instances on a linux webserver. Requires Python (2.7), selenium, pyvirtualdisplay and xvfb.
 # Usernames and passwords are stored in datas.db
 # More info : shengche@ulb.ac.be - http://hengchen.net
+# Original work by Laurent Contzen - https://www.linkedin.com/in/laurent-contzen-2103ba66/
+
 
 # This programme is supposed to be launched as root from /var/www/html/omeka. If you wish to launch it from somewhere else, adjust the paths :-)
 
